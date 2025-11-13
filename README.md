@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Case Study: VLAN partitioning</b>
-  - [Highlevel Overview of VLAN Partitioning for small office](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Highlevel Overview of VLAN Partitioning for small office](https://github.com/cl-prog/vlan-casestudy)
 
 <h2>🤳Connect with me:</h2>
 
